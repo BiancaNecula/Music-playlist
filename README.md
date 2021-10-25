@@ -9,7 +9,7 @@ Faculty of Automatic Control and Computer Science \
 
 # Info
 ```bash
-git clone https://github.com/BiancaNecula/TAR-archiver.git
+git clone https://github.com/BiancaNecula/Music-playlist.git
 ```
 Run ./check.sh for testing with the checker. 
 
