@@ -42,7 +42,7 @@ On the first line there will be a number q, representing the number of commands 
 * Move cursor
   - MOVE_NEXT → move the cursor to the next song (if the end of the list has been reached, the command is ignored)
   - MOVE_PREV → move the cursor to the previous song (if the list has been reached, the command is ignored)
-*Display
+* Display
   - SHOW_FIRST → Displays song information at the top of the list
   - SHOW_LAST → Displays song information at the end of the list
   - SHOW_CURR → show information about the current song (the one on which the cursor is set)
