@@ -1,0 +1,71 @@
+2
+ADD_FIRST Rick Astley - Never Gonna Give You Up.mp3
+SHOW_PLAYLIST
+
+
+
+20
+ADD_LAST The Beatles - No Reply.mp3
+DEL_SONG NOMA - Brain power.mp3
+MOVE_PREV
+DEL_LAST
+ADD_AFTER Suie Paparude - Mergem Mai Departe.mp3
+ADD_AFTER Elvis Presley - All Shook Up.mp3
+ADD_AFTER 2Pac - Ambitionz az a ridah.mp3
+ADD_FIRST Rick Astley - Never Gonna Give You Up.mp3
+MOVE_NEXT
+SHOW_FIRST
+DEL_SONG Nicu Alifantis - Ploaie in luna lui Marte.mp3
+DEL_CURR
+ADD_LAST Iron Maiden - Alexander The Great.mp3
+SHOW_FIRST
+MOVE_PREV
+ADD_FIRST Michael Jackson - Smooth Criminal.mp3
+MOVE_PREV
+SHOW_FIRST
+ADD_LAST ABBA - Chiquitita.mp3
+SHOW_PLAYLIST
+
+2
+ADD_FIRST Gorillaz - Feel Good Inc.mp3
+SHOW_CURR
+
+
+24
+DEL_FIRST
+ADD_LAST Metallica - Battery.mp3
+SHOW_PLAYLIST
+ADD_FIRST Gorillaz - Feel Good Inc.mp3
+SHOW_PLAYLIST
+ADD_AFTER NOMA - Brain power.mp3
+SHOW_PLAYLIST
+ADD_FIRST Iron Maiden - Fear of The Dark.mp3
+SHOW_PLAYLIST
+MOVE_NEXT
+ADD_FIRST Dr. Dre - The Next Episode.mp3
+SHOW_PLAYLIST  
+ADD_LAST Darude - Sandstorm.mp3
+SHOW_PLAYLIST
+ADD_AFTER Survivor - Eye Of The Tiger.mp3
+SHOW_PLAYLIST
+ADD_FIRST Iron Maiden - Fear of The Dark.mp3
+SHOW_PLAYLIST
+SHOW_CURR
+MOVE_NEXT
+DEL_LAST
+MOVE_PREV
+SHOW_CURR
+SHOW_PLAYLIST
+
+
+
+
+
+7
+ADD_FIRST Iron Maiden - Fear of The Dark.mp3
+ADD_FIRST Dr. Dre - The Next Episode.mp3  
+ADD_LAST Darude - Sandstorm.mp3
+ADD_AFTER Survivor - Eye Of The Tiger.mp3
+DEL_CURR
+MOVE_PREV
+SHOW_FIRST
