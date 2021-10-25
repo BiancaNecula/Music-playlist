@@ -11,7 +11,7 @@ Faculty of Automatic Control and Computer Science \
 ```bash
 git clone https://github.com/BiancaNecula/TAR-archiver.git
 ```
-Run ./check.sh for testing with the checker. \
+Run ./check.sh for testing with the checker. 
 
 ## Use
 
